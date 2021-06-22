@@ -1,0 +1,25 @@
+.home1{
+    width: 100vw;
+    height: 80vh;
+    background-color: #f0f2f5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.homeLogo{
+    font-size: 50px;
+    font-weight: 800;
+    color: darkmagenta;
+    margin-bottom: 10px;
+}
+
+.homeDesc{
+    font-size: 20px;
+    
+    
+    
+}

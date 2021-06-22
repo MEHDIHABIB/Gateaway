@@ -1,0 +1,22 @@
+.admin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    
+}
+
+.adminPost{
+    padding: 50px 0 ;
+}
+
+.buttonPost{
+    
+    margin-left: 20px;
+}
+
+.category{
+    font-size: 20px;
+    font-weight: 600;
+}
